@@ -18,9 +18,9 @@ Este repositorio corresponde al ejercicio 1 realizado en la formación de Java F
 <details>
   <summary> 2. Crear un proyecto básico Spring Utilizando Maven.</summary>
 <br>
-  <img src="https://github.com/JagaScripts/java-full-stack-dev-u23/blob/master/gradle.jpg">
+  <img src="https://github.com/JagaScripts/java-full-stack-dev-u23/blob/master/mavenSpirngStart.jpg">
   
-  <img src="https://github.com/JagaScripts/java-full-stack-dev-u23/blob/master/gradleeclipse.jpg">
+  <img src="https://github.com/JagaScripts/java-full-stack-dev-u23/blob/master/mavenSpirngEclipse.jpg">
  <br>
 <p align="justify">imagen creacion maven.</p>
 
