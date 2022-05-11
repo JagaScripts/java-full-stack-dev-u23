@@ -36,7 +36,5 @@ Este repositorio corresponde al ejercicio 1 realizado en la formación de Java F
  <br>
 <p align="justify">imagen creacion gradle.</p>
 
-[imagen creacion gradle](https://github.com/JagaScripts/java-full-stack-dev-M5/blob/master/region.json "imagen creacion gradle")
-
   </details>
 <br>
