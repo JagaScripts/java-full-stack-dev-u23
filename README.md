@@ -31,8 +31,8 @@ Este repositorio corresponde al ejercicio 1 realizado en la formación de Java F
 <details>
   <summary> 3. Crear un proyecto básico Spring Utilizando Gradle.</summary>
 <br>
-  <img src="https://github.com/JagaScripts/java-full-stack-dev-u23/blob/master/springtools.jpg">
-  <img src="https://github.com/JagaScripts/java-full-stack-dev-u23/blob/master/springtoolse.jpg">
+  <img src="https://github.com/JagaScripts/java-full-stack-dev-u23/blob/master/gradle.jpg">
+  <img src="https://github.com/JagaScripts/java-full-stack-dev-u23/blob/master/gradleeclipse.jpg">
  <br>
 <p align="justify">imagen creacion gradle.</p>
 
